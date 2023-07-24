@@ -2,6 +2,7 @@ import $ from 'jquery';
 import _ from 'lodash';
 import '../css/main.css';
 
+
 $(function() {
 let count = 0;
 
